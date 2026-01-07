@@ -1,9 +1,9 @@
 class Students
 {
-    String name;
-    int roll;
+    String name; //instance variable
+    int roll;//instance variable
 
-    public Students(String name, int roll) {
+    public Students(String name, int roll) {//local variable
         this.name = name;
         this.roll = roll;
     }
