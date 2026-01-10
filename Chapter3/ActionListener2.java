@@ -31,7 +31,7 @@ class OkCancelBtn extends JFrame implements ActionListener
     {
         if(e.getSource() == okBtn)
         {
-            JOptionPane.showMessageDialog(this, "Ok Button Clicked");
+            JOptionPane.showMessageDialog(null, "Ok Button Clicked");
         }
         else if(e.getSource() == cnlBtn)
         {
