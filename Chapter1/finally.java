@@ -1,4 +1,4 @@
-public class finally
+class Finally
 {
     public static void main(String[] args) {
         int i = 0; 
